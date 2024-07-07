@@ -16,7 +16,8 @@ Hello there👋👋! Welcome to my GitHub profile! I'm Emmanuel Semaza, a web de
 - Description: This is a website that help our school clinic to manage the stock of drugs.
 - Technologies Used: HTML, CSS, JavaScript, PHP.
 - Image to the project:
-  ![Screenshot (1)](https://github.com/semaza1/semaza1/assets/120005066/009510fd-1ef3-4e0d-a513-a01d558c3d4e)
+  ![Screenshot (2)](https://github.com/semaza1/semaza1/assets/120005066/5affe223-9742-4437-91bb-69209adbb3c2)
+
 
 
 ## Contacts

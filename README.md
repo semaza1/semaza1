@@ -2,21 +2,31 @@
 
 ## Intro
 Hello there👋👋! Welcome to my GitHub profile! I'm Emmanuel Semaza, a web designer passionate about creating beautiful and functional websites using HTML, CSS, JavaScript, and PHP. Below you'll find an overview of my projects and how to get in touch with me. 
+[My E-portfolio](http://semaza.wuaze.com/Portfolio/index.php?i=2)
 
 
 ## Projects
 
 ### Project 1: Voting Interface
-- Description: A website that my school used to vote the student Government.
-- Technologies Used: HTML, CSS, JavaScript, PHP.
-- Image to the project:
-  ![Screenshot (1)](https://github.com/semaza1/semaza1/assets/120005066/009510fd-1ef3-4e0d-a513-a01d558c3d4e)
+- __Description__: A website that my school used to vote the student Government.
+-  __Technologies Used__: HTML, CSS, JavaScript, PHP.
+- __Image to the project__:
+  ![_ HP Elite Dragonfly (1)](https://github.com/user-attachments/assets/529477fc-c337-4a8a-9ef8-4585bda07dba)
+
 
 ### Project 2: Pharmacy Management System
-- Description: This is a website that help our school clinic to manage the stock of drugs.
-- Technologies Used: HTML, CSS, JavaScript, PHP.
-- Image to the project:
-  ![Screenshot (2)](https://github.com/semaza1/semaza1/assets/120005066/5affe223-9742-4437-91bb-69209adbb3c2)
+- __Description__: This is a website that help our school clinic to manage the stock of drugs.
+- __Technologies Used__: HTML, CSS, JavaScript, PHP.
+- __Image to the project__:
+  ![Screenshot__3_-removebg-preview](https://github.com/user-attachments/assets/33e84a5f-f07c-4cfe-8505-87ef2a8b45e5)
+
+
+### Project 3: Me - Portfolio
+- __Description__: This project present my skills in regard to programming jurney.
+- __Technologies Used__: HTML, CSS, JavaScript, PHP.
+- __Image to the project__:
+  ![_ HP Elite Dragonfly](https://github.com/user-attachments/assets/d76ea178-0ff2-4d83-bf59-7235e1afd55c)
+
 
 
 
@@ -24,9 +34,10 @@ Hello there👋👋! Welcome to my GitHub profile! I'm Emmanuel Semaza, a web de
 
 You can connect with me via:
 
-- LinkedIn: https://www.linkedin.com/in/emmanuel-semaza-2643b5267/
-- Instagram: https://instagram.com/emm_nyaxo
-- Facebook: https://facebook.com/semaza
+- LinkedIn: [Emmanuel Semaza 🐦](https://www.linkedin.com/in/emmanuel-semaza-2643b5267/)
+- Instagram: [Emmanuel Semaza 🔗](https://instagram.com/emm_nyaxo)
+- Facebook: [Emmanuel Semaza 📂](https://facebook.com/semaza)
+- Visit my Page here: [Here](http://semaza.wuaze.com/Portfolio/index.php?i=2)
   
   ⚡ You can reach me out via email at: semazaemmanuel@gmail.com
 

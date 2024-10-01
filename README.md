@@ -2,7 +2,7 @@
 
 ## Intro
 Hello there👋👋! Welcome to my GitHub profile! I'm Emmanuel Semaza, a web designer passionate about creating beautiful and functional websites using HTML, CSS, JavaScript, and PHP. Below you'll find an overview of my projects and how to get in touch with me. 
-[My E-portfolio](http://semaza.wuaze.com/Portfolio/index.php?i=2)
+[My E-portfolio](http://semaza.wuaze.com/)
 
 
 ## Projects

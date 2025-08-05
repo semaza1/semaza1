@@ -1,34 +1,8 @@
 # Emmanuel Semaza - Web Designer
 
 ## Intro
-Hello there👋👋! Welcome to my GitHub profile! I'm Emmanuel Semaza, a web designer passionate about creating beautiful and functional websites using HTML, CSS, JavaScript, and PHP. Below you'll find an overview of my projects and how to get in touch with me. 
-[My E-portfolio](http://semaza.wuaze.com/)
-
-
-## Projects
-
-### Project 1: Voting Interface
-- __Description__: A website that my school used to vote the student Government.
--  __Technologies Used__: HTML, CSS, JavaScript, PHP.
-- __Image to the project__:
-  ![_ HP Elite Dragonfly (1)](https://github.com/user-attachments/assets/529477fc-c337-4a8a-9ef8-4585bda07dba)
-
-
-### Project 2: Pharmacy Management System
-- __Description__: This is a website that help our school clinic to manage the stock of drugs.
-- __Technologies Used__: HTML, CSS, JavaScript, PHP.
-- __Image to the project__:
-  ![Screenshot__3_-removebg-preview](https://github.com/user-attachments/assets/33e84a5f-f07c-4cfe-8505-87ef2a8b45e5)
-
-
-### Project 3: Me - Portfolio
-- __Description__: This project present my skills in regard to programming jurney.
-- __Technologies Used__: HTML, CSS, JavaScript, PHP.
-- __Image to the project__:
-  ![_ HP Elite Dragonfly](https://github.com/user-attachments/assets/d76ea178-0ff2-4d83-bf59-7235e1afd55c)
-
-
-
+Hello there👋👋! Welcome to my GitHub profile! I'm Emmanuel Semaza, a full stack Developer skilled in Javascript and experinced in MERN stack to build dynamic, responsive, and effecient web applications. 
+[My E-portfolio](http://semaza.vercel.app)
 
 ## Contacts
 

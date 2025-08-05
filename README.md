@@ -11,7 +11,7 @@ You can connect with me via:
 - LinkedIn: [Emmanuel Semaza 🐦](https://www.linkedin.com/in/emmanuel-semaza-2643b5267/)
 - Instagram: [Emmanuel Semaza 🔗](https://instagram.com/emm_nyaxo)
 - Facebook: [Emmanuel Semaza 📂](https://facebook.com/semaza)
-- Visit my Page here: [Here](http://semaza.wuaze.com/Portfolio/index.php?i=2)
+- Visit my Page here: [Here](http://semaza.vercel.app)
   
   ⚡ You can reach me out via email at: semazaemmanuel@gmail.com
 
